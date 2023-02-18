@@ -9,8 +9,10 @@ root = tkinter.Tk(className=' HEXAWARE LOGIN')
 # root window title and dimension
 
 root.geometry('500x300')
-root.configure(bg='#C2DFFF')
+#root.configure(bg='#C2DFFF')
 #root.configure(bg='#FF69B4')
+root.configure(bg='#7FFFD4')
+
 
 
 # the label for user_name
